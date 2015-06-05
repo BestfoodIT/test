@@ -1,0 +1,32 @@
+asd{
+	color:blue;
+	font-family:Tahoma;
+}
+h1{
+	background-color:gray;
+	padding: 10px 40px;
+	border-style:ridge;
+	border-width:5px;
+	border-color:red; 
+}
+p{
+	font-family:Arial;
+}
+test{
+	font: bold italic 28px Arial;
+}
+head{
+	margin:15px;
+}
+body{
+	margin:15px;
+}
+/*font: 1 2 3 4(order do matters)font-weight is the only thing can be omit when writing,
+													if doesn't want to modify*/
+/*1: font-weight, ex. bold */
+/*2: font-style, italic */
+/*3: font-size, the size of the pixel*/
+/*4: font-family, Tahoma, or Arial. The font-family that the computer had, default font-family. 
+	if you had some new font-family that had install later on to the computer, its going to be complicated.*/
+/* check in with css library about all the property that the css had*/
+/* font-family and background-color is just one of those property */
